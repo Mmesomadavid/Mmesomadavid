@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Chukwunoyelu Mmesoma</h1>
 <h3 align="center">A DevOps Engineer & Fullstack Web Developer from Nigeria</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/3Eqa.gif"></img>
+
+<img align="right" width="500" src![e8f453469a3ec97ecd354df465d73913](https://user-images.githubusercontent.com/108488301/215341538-dc4affd5-6841-4ebe-93a6-16fe2597547e.gif)></img>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmesomadavid" alt="mmesomadavid" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce Webapp**
@@ -15,7 +17,6 @@
 - 👨‍💻 All of my projects are available at [mmesoma.netlify.app](mmesoma.netlify.app)
 
 - 📝 I regularly write articles on [https://medium.com](https://medium.com)
-![3Eqa](https://user-images.githubusercontent.com/108488301/215334108-4504358d-fc5d-45e0-9b87-85eb922d1870.gif)![Mex (1)](https://user-images.githubusercontent.com/108488301/215339886-d8652dfa-52ea-44bc-a58c-0e34276379a7.png)![Mex (1)](https://user-images.githubusercontent.com/108488301/215339895-cf041d12-80ca-4093-887d-2fbc6c394238.png)
 
 
 
