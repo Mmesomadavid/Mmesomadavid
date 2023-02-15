@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chukwunoyelu Mmesoma</h1>
 <h3 align="center">A DevOps Engineer & Fullstack Web Developer from Nigeria</h3>
 
-![e8f453469a3ec97ecd354df465d73913](https://i.pinimg.com/originals/88/e5/a4/88e5a4a52f0d7725c5e56364422b79fc.gif)
+![e8f453469a3ec97ecd354df465d73913](https://user-images.githubusercontent.com/108488301/215341538-dc4affd5-6841-4ebe-93a6-16fe2597547e.gif)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmesomadavid" alt="mmesomadavid" /></a> </p>
 
