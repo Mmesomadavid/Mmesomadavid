@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chukwunoyelu Mmesoma</h1>
 
-![Uploading Chukwunoyelu Mmesoma.png…]()
+![Chukwunoyelu Mmesoma](https://github.com/Mmesomadavid/Mmesomadavid/assets/108488301/d2db5b3f-dc5c-40dc-8b78-d88d6efe30ea)
 
 <h3 align="center">A DevOps Engineer & Infrastructure Engineer</h3>
 
