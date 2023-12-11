@@ -2,7 +2,7 @@
 
 ![Chukwunoyelu Mmesoma](https://github.com/Mmesomadavid/Mmesomadavid/assets/108488301/d2db5b3f-dc5c-40dc-8b78-d88d6efe30ea)
 
-<h3 align="center">A DevOps Engineer & Infrastructure Engineer</h3>
+<h3 align="center">DevOps, Infrastructure, & Cloud Engineer | Passionate about Web 3.0 and Building Future-Ready Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmesomadavid&label=Profile%20views&color=0e75b6&style=flat" alt="mmesomadavid" /> </p>
 
