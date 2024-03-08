@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chukwunoyelu Mmesoma</h1>
 
-![DevOps   DevSECOPS](https://github.com/Mmesomadavid/Mmesomadavid/assets/108488301/839ecafb-d7c9-4f7b-91e7-442641e596b0)
+![DevOps Engineer   DevSecOps Expert](https://github.com/Mmesomadavid/Mmesomadavid/assets/108488301/bc67848d-1560-47dc-82a9-2af6671e9b98)
 
 <h3 align="center">DevOps, Infrastructure, & Cloud Engineer | Passionate about Web 3.0 and Building Future-Ready Solutions</h3>
 
